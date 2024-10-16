@@ -1,2 +1,2 @@
 # landform-mini-project (Completed)
-from brad travesty html css course
+from brad traversy html css course
